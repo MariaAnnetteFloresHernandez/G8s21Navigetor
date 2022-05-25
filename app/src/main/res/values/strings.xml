@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">G8s21Navigetor</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Flores Hernandez Maria Annette</string>
+    <string name="nav_header_subtitle">Facebook: Anny Flores</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_sumar">Suma 2 num</string>
+    <string name="TituloSumar">Sumar dos numeros</string>
+    <string name="primernumero">Primer Numero</string>
+    <string name="segundonumero">Segundo Numero</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TituloRestar">Restar dos números</string>
+    <string name="Calcula">Calcular</string>
+    <string name="menu_restar">Restar 2 num</string>
+    <string name="TituloDividir">Dividir dos números</string>
+    <string name="menu_dividir">Dividir 2 num</string>
+    <string name="TituloMultiplicar">Multiplicar dos números</string>
+    <string name="menu_multiplicar">Multiplicar 2 num</string>
+    <string name="TituloHome">Practica de una Calculadora</string>
+    <string name="text1Home">Victor Hugo de la O</string>
+    <string name="Name">Flores Hernandez Maria Annette</string>
+    <string name="grupo">Grupo: 8s21</string>
+</resources>

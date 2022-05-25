@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.g8s21navigetor.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_sumar"
+        android:name="com.example.g8s21navigetor.ui.sumas.SumarFragment"
+        android:label="sumar_fragment"
+        tools:layout="@layout/sumar_fragment" />
+    <fragment
+        android:id="@+id/nav_restar"
+        android:name="com.example.g8s21navigetor.ui.Resta.RestarFragment"
+        android:label="fragment_restar"
+        tools:layout="@layout/fragment_restar" />
+    <fragment
+        android:id="@+id/nav_dividir"
+        android:name="com.example.g8s21navigetor.ui.Division.DividirFragment"
+        android:label="fragment_dividir"
+        tools:layout="@layout/fragment_dividir" />
+    <fragment
+        android:id="@+id/nav_multiplicar"
+        android:name="com.example.g8s21navigetor.ui.Multiplicacion.MultiplicarFragment"
+        android:label="fragment_multiplicar"
+        tools:layout="@layout/fragment_multiplicar" />
+</navigation>
